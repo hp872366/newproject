@@ -1,6 +1,7 @@
-body {
-  background-color: #ccccff;
-}
+<html>
+<body>
+
+<body style= "background-color: #ccccff;">
 
 h1 {
   text-align: center;
